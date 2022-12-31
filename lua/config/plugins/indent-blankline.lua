@@ -7,7 +7,7 @@ function M.config()
 
   vim.opt.termguicolors = true
   --vim.cmd [[highlight IndentBlanklineIndent1 guibg=#1f1f1f gui=nocombine]]
-  vim.cmd [[highlight IndentBlanklineIndent1 guibg=#171719 ]]
+  vim.cmd [[highlight IndentBlanklineIndent1 guibg=#2e362f ]]
   --vim.cmd [[highlight IndentBlanklineIndent2 guibg=#1a1a1a gui=nocombine]]
   vim.cmd [[highlight IndentBlanklineIndent2 guibg=NONE gui=NONE]]
   
