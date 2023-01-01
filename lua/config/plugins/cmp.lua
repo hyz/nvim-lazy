@@ -43,6 +43,7 @@ function M.config()
       { name = "emoji" },
       { name = "neorg" },
       { name = "crates" },
+      { name = "package-info" },
     }),
     formatting = {
       format = require("config.plugins.lsp.kind").cmp_format(),
